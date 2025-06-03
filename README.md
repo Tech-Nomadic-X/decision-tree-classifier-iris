@@ -34,6 +34,18 @@ The model performs well on the test set and provides interpretable visual splits
 
 ---
 
+## Results
+The model achieves high accuracy on the Iris dataset and provides clear visualization of the decision-making process.
+
+---
+
+Feel free to explore and modify the notebook to improve or apply it on different datasets.
+
+---
+
+## License
+This project is open-source and available for educational purposes.
+
 ## 📌 Conclusion
 Decision Trees are a simple yet powerful tool in machine learning. This project shows how easy it is to implement and understand them with real-world datasets.
 
